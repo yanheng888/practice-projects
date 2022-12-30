@@ -2,7 +2,7 @@
 
 This demo is to show how to implement authentication and authorization on microservices architecture by using spring security.
 
-![spring-security-flow](/Users/hengyan/Desktop/practice-projects/springsecurity-demo2/documents/typora-user-images/spring-security-flow.png)
+![](/Users/hengyan/Desktop/practice-projects/springsecurity-demo2/documents/typora-user-images/spring-security-flow.png)
 
 
 
