@@ -27,8 +27,8 @@ This demo is to show how to implement authentication and authorization on micros
 ```
 acl-parent
 ├── common -- 工具类及通用代码
-			├──service_base -- common utils, handlers
-			├──spring_security -- the filers, configurations of spring security
+	├──service_base -- common utils, handlers
+	├──spring_security -- the filers, configurations of spring security
 ├── infrastructure -- spring cloud gateway
 ├── service -- acl services,controllers,mappers,entities
 ```
