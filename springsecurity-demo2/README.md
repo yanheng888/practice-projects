@@ -2,7 +2,7 @@
 
 This demo is to show how to implement authentication and authorization on microservices architecture by using spring security.
 
-![](/Users/hengyan/Desktop/practice-projects/springsecurity-demo2/documents/typora-user-images/spring-security-flow.png)
+![](documents/typora-user-images/spring-security-flow.png)
 
 
 
@@ -36,8 +36,8 @@ acl-parent
 
 DEMO
 
-![](/Users/hengyan/Desktop/practice-projects/springsecurity-demo2/documents/typora-user-images/login.png)
+![](documents/typora-user-images/login.png)
 
 
 
-![](/Users/hengyan/Desktop/practice-projects/springsecurity-demo2/documents/typora-user-images/menu.png)
+![](documents/typora-user-images/menu.png)
